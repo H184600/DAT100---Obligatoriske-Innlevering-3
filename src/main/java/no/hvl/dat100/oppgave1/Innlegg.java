@@ -7,7 +7,7 @@ public abstract class Innlegg {
 	protected int id;
 	protected String bruker;
 	protected String dato;
-	int likes;
+	protected int likes;
 
 	public Innlegg() {
 
